@@ -3,13 +3,13 @@ This repo contains professional programming books, and they are really helpful f
 
 #Books
 The books avaliable are:-
-1. [Dot net Framework Book](https://lostworld21.github.io/programmingbooks/DotNETFrameworkBook.html)
+1. [.NET Framework Book](https://lostworld21.github.io/programmingbooks/DotNETFrameworkBook.html)
 2. [Algorithms Book](https://lostworld21.github.io/programmingbooks/AlgorithmsBook.html)
 3. [Android Book](https://lostworld21.github.io/programmingbooks/AndroidBook.html)
 4. [Angular 2+ Book](https://lostworld21.github.io/programmingbooks/Angular2Book.html)
 5. [Angular JS Book](https://lostworld21.github.io/programmingbooks/AngularJSBook.html)
 6. [Bash Book](https://lostworld21.github.io/programmingbooks/BashBook.html)
-7. [C Book](CBook.html)
+7. [C Book](https://lostworld21.github.io/programmingbooks/CBook.html)
 8. [C++ Book](https://lostworld21.github.io/programmingbooks/CPlusPlusBook.html)
 9. [C# Book](https://lostworld21.github.io/programmingbooks/CSharpBook.html)
 10. [CSS Book](https://lostworld21.github.io/programmingbooks/CSSBook.html)
@@ -49,9 +49,12 @@ The books avaliable are:-
 44. [Swift Book](https://lostworld21.github.io/programmingbooks/SwiftBook.html)
 45. [Typescript Book](https://lostworld21.github.io/programmingbooks/TypeScriptBook.html)
 46. [VBA Book](https://lostworld21.github.io/programmingbooks/VBABook.html)
-47. [Visual basic dot net Book](https://lostworld21.github.io/programmingbooks/VisualBasic_NETBook.html)
+47. [Visual basic .NET Book](https://lostworld21.github.io/programmingbooks/VisualBasic_NETBook.html)
 48. [Xamarin Forms Book](https://lostworld21.github.io/programmingbooks/XamarinFormsBook.html)
 
 #Download
 
 To get any pdf. You need to send the name (as written [here](Books)) to the Telegram Bot. You can access the telegram bot [here](https://t.me/contact_anonbot) and also link is provided in every page in a blue colored button.
+
+# Contact 
+E-mail is given inside every pdf but, if you want to contact me throught telegram then [click me](https://t.me/contact_anonbot)
