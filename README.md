@@ -54,7 +54,7 @@ The books avaliable are:-
 
 #Download
 
-To get any pdf. You need to send the name (as written [here](Books)) to the Telegram Bot. You can access the telegram bot [here](https://t.me/contact_anonbot) and also link is provided in every page in a blue colored button.
+To get any pdf. You need to send the name of the book as mentiond above to the Telegram Bot. You can access the telegram bot [here](https://t.me/contact_anonbot) and also link is provided in every page in a blue colored button.
 
 # Contact 
-E-mail is given inside every pdf but, if you want to contact me throught telegram then [click me](https://t.me/contact_anonbot)
+If you want to contact me then [click me](https://t.me/contact_anonbot)
